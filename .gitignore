@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_tdg/
 
 # Spyder project settings
 .spyderproject
@@ -102,3 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Don't upload plots
+*.png
+
+# Protect data just because usernames
+*.json
