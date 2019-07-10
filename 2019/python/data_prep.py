@@ -7,7 +7,7 @@ df_players = pd.read_json("../data/players.json")
 df_info = pd.read_json("../data/mlb_colors.json")
 
 df_info = df_info.drop(["league"],axis=1)
-df_players = df_players.drop(["team","id"], axis=1)
+df_players = df_players.drop(["id"], axis=1)
 
 # Merge on player
 df_players = pd.merge(df_players, df_info, how="left", left_on="original_team_id", right_on="id")
@@ -33,4 +33,4 @@ df_players = df_players.rename(index=str, columns={"sub":"ntc_sub"})
 df_players = df_players.drop(["colors","name","id_x","id_y","id"],axis=1)
 
 
-df_players.to_pickle("../data/players.pickle")
+df_players.to_csv("../data/players.csv")
