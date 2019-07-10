@@ -1,342 +1,312 @@
 [
 	{
 		"name": "Arizona Diamondbacks",
-		"sub":"/r/AZDiamondbacks",
+		"sub": "/r/AZDiamondbacks",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"A71930",
-				"000000",
-				"E3D4AD"
-			]
-		}
+		"id": 3,
+		"colors": [
+			"A71930",
+			"000000",
+			"E3D4AD"
+		]
 	},
 	{
 		"name": "Atlanta Braves",
-		"sub":"/r/Braves",
+		"sub": "/r/Braves",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"CE1141",
-				"13274F"
-			]
-		}
+		"id": 4,
+		"colors": [
+			"13274F",
+			"CE1141"
+		]
 	},
 	{
 		"name": "Baltimore Orioles",
-		"sub":"/r/Orioles",
+		"sub": "/r/Orioles",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"DF4601",
-				"000000"
-			]
-		}
+		"id": 21,
+		"colors": [
+			"DF4601",
+			"000000"
+		]
 	},
 	{
 		"name": "Boston Red Sox",
-		"sub":"/r/RedSox",
+		"sub": "/r/RedSox",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"BD3039",
-				"0D2B56"
-			]
-		}
+		"id": 25,
+		"colors": [
+			"BD3039",
+			"0D2B56"
+		]
 	},
 	{
 		"name": "Chicago Cubs",
-		"sub":"/r/CHICubs",
+		"sub": "/r/CHICubs",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"CC3433",
-				"0E3386"
-			]
-		}
+		"id": 8,
+		"colors": [
+			"0E3386",
+			"CC3433"
+		]
 	},
 	{
 		"name": "Chicago White Sox",
-		"sub":"/r/WhiteSox",
+		"sub": "/r/WhiteSox",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"000000",
-				"C4CED4"
-			]
-		}
+		"id": 30,
+		"colors": [
+			"000000",
+			"C4CED4"
+		]
 	},
 	{
 		"name": "Cincinnati Reds",
-		"sub":"/r/Reds",
+		"sub": "/r/Reds",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"C6011F",
-				"000000"
-			]
-		}
+		"id": 24,
+		"colors": [
+			"C6011F",
+			"000000"
+		]
 	},
 	{
 		"name": "Colorado Rockies",
-		"sub":"/r/ColoradoRockies",
+		"sub": "/r/ColoradoRockies",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"333366",
-				"231F20",
-				"C4CED4"
-			]
-		}
+		"id": 10,
+		"colors": [
+			"333366",
+			"231F20",
+			"C4CED4"
+		]
 	},
 	{
 		"name": "Cleveland Indians",
-		"sub":"/r/ClevelandIndians",
+		"sub": "/r/ClevelandIndians",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"E31937",
-				"002B5C"
-			]
-		}
+		"id": 9,
+		"colors": [
+			"E31937",
+			"002B5C"
+		]
 	},
 	{
 		"name": "Detroit Tigers",
-		"sub":"/r/MotorCityKitties",
+		"sub": "/r/MotorCityKitties",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"0C2C56"
-			]
-		}
+		"id": 16,
+		"colors": [
+			"0C2C56"
+		]
 	},
 	{
 		"name": "Houston Astros",
-		"sub":"/r/Astros",
+		"sub": "/r/Astros",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"002D62",
-				"EB6E1F"
-			]
-		}
+		"id": 2,
+		"colors": [
+			"EB6E1F",
+			"002D62"
+		]
 	},
 	{
 		"name": "Kansas City Royals",
-		"sub":"/r/KCRoyals",
+		"sub": "/r/KCRoyals",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"004687",
-				"C09A5B"
-			]
-		}
+		"id": 12,
+		"colors": [
+			"004687",
+			"C09A5B"
+		]
 	},
 	{
 		"name": "Los Angeles Angels of Anaheim",
-		"sub":"/r/AngelsBaseball",
+		"sub": "/r/AngelsBaseball",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"BA0021",
-				"003263"
-			]
-		}
+		"id": 1,
+		"colors": [
+			"BA0021",
+			"003263"
+		]
 	},
 	{
 		"name": "Los Angeles Dodgers",
-		"sub":"/r/Dodgers",
+		"sub": "/r/Dodgers",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"EF3E42",
-				"005A9C"
-			]
-		}
+		"id": 11,
+		"colors": [
+			"005A9C",
+			"EF3E42"
+		]
 	},
 	{
 		"name": "Miami Marlins",
-		"sub":"/r/LetsGoFish",
+		"sub": "/r/LetsGoFish",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"FF6600",
-				"0077C8",
-				"FFD100",
-				"000000"
-			]
-		}
+		"id": 13,
+		"colors": [
+			"FF6600",
+			"0077C8",
+			"FFD100",
+			"000000"
+		]
 	},
 	{
 		"name": "Milwaukee Brewers",
-		"sub":"/r/Brewers",
+		"sub": "/r/Brewers",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"0A2351",
-				"B6922E"
-			]
-		}
+		"id": 5,
+		"colors": [
+			"0A2351",
+			"B6922E"
+		]
 	},
 	{
 		"name": "Minnesota Twins",
-		"sub":"/r/MinnesotaTwins",
+		"sub": "/r/MinnesotaTwins",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"002B5C",
-				"D31145"
-			]
-		}
+		"id": 15,
+		"colors": [
+			"002B5C",
+			"D31145"
+		]
 	},
 	{
 		"name": "New York Mets",
-		"sub":"/r/NewYorkMets",
+		"sub": "/r/NewYorkMets",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"FF5910",
-				"002D72"
-			]
-		}
+		"id": 18,
+		"colors": [
+			"FF5910",
+			"002D72"
+		]
 	},
 	{
 		"name": "New York Yankees",
-		"sub":"/r/NYYankees",
+		"sub": "/r/NYYankees",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"E4002B",
-				"003087"
-			]
-		}
+		"id": 19,
+		"colors": [
+			"003087",
+			"E4002B"
+		]
 	},
 	{
 		"name": "Oakland Athletics",
-		"sub":"/r/OaklandAthletics",
+		"sub": "/r/OaklandAthletics",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"003831",
-				"EFB21E"
-			]
-		}
+		"id": 20,
+		"colors": [
+			"003831",
+			"EFB21E"
+		]
 	},
 	{
 		"name": "Philadelphia Phillies",
-		"sub":"/r/Phillies",
+		"sub": "/r/Phillies",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"284898",
-				"E81828"
-			]
-		}
+		"id": 23,
+		"colors": [
+			"E81828",
+			"284898"
+		]
 	},
 	{
 		"name": "Pittsburgh Pirates",
-		"sub":"/r/Buccos",
+		"sub": "/r/Buccos",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"FDB827",
-				"000000"
-			]
-		}
+		"id": 6,
+		"colors": [
+			"FDB827",
+			"000000"
+		]
 	},
 	{
 		"name": "San Diego Padres",
-		"sub":"/r/Padres",
+		"sub": "/r/Padres",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"002D62",
-				"FEC325",
-				"7F411C",
-				"A0AAB2"
-			]
-		}
+		"id": 22,
+		"colors": [
+			"002D62",
+			"FEC325",
+			"7F411C",
+			"A0AAB2"
+		]
 	},
 	{
 		"name": "San Francisco Giants",
-		"sub":"/r/SFGiants",
+		"sub": "/r/SFGiants",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"FD5A1E",
-				"000000",
-				"8B6F4E"
-			]
-		}
+		"id": 26,
+		"colors": [
+			"FD5A1E",
+			"000000",
+			"8B6F4E"
+		]
 	},
 	{
 		"name": "Seattle Mariners",
-		"sub":"/r/Mariners",
+		"sub": "/r/Mariners",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"0C2C56",
-				"005C5C",
-				"C4CED4"
-			]
-		}
+		"id": 14,
+		"colors": [
+			"005C5C",
+			"0C2C56",
+			"C4CED4"
+		]
 	},
 	{
 		"name": "St Louis Cardinals",
-		"sub":"/r/Cardinals",
+		"sub": "/r/Cardinals",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"C41E3A",
-				"000066",
-				"FEDB00"
-			]
-		}
+		"id": 7,
+		"colors": [
+			"C41E3A",
+			"000066",
+			"FEDB00"
+		]
 	},
 	{
 		"name": "Tampa Bay Rays",
-		"sub":"/r/TampaBayRays",
+		"sub": "/r/TampaBayRays",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"092C5C",
-				"8FBCE6",
-				"F5D130"
-			]
-		}
+		"id": 27,
+		"colors": [
+			"092C5C",
+			"8FBCE6",
+			"F5D130"
+		]
 	},
 	{
 		"name": "Texas Rangers",
-		"sub":"/r/TexasRangers",
+		"sub": "/r/TexasRangers",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"C0111F",
-				"003278"
-			]
-		}
+		"id": 28,
+		"colors": [
+			"C0111F",
+			"003278"
+		]
 	},
 	{
 		"name": "Toronto Blue Jays",
-		"sub":"/r/TorontoBlueJays",
+		"sub": "/r/TorontoBlueJays",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"134A8E",
-				"1D2D5C",
-				"E8291C"
-			]
-		}
+		"id": 29,
+		"colors": [
+			"134A8E",
+			"1D2D5C",
+			"E8291C"
+		]
 	},
 	{
 		"name": "Washington Nationals",
-		"sub":"/r/Nationals",
+		"sub": "/r/Nationals",
 		"league": "mlb",
-		"colors": {
-			"hex": [
-				"AB0003",
-				"11225B"
-			]
-		}
+		"id": 17,
+		"colors": [
+			"AB0003",
+			"11225B"
+		]
 	}
 ]
